@@ -1,5 +1,5 @@
 ---
-title: projects
+title: portfolio
 layout: default
 sitemap:
   priority: 0.7
@@ -7,6 +7,6 @@ sitemap:
   lastmod: 2020-12-01
   exclude: 'no'
 ---
-## Projects
+## Portfolio
 1. [Corporate Finance](https://github.com/odenipinedo/projects/tree/master/Finance)<br>
 2. [People Analytics](https://github.com/odenipinedo/projects/tree/master/PeopleAnalytics)
