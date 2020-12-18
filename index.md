@@ -1,14 +1,14 @@
 ---
-title: portfolio
+title: projects
 layout: default
 sitemap:
   priority: 0.7
   changefreq: 'weekly'
-  lastmod: 2020-12-02
+  lastmod: 2020-12-18
   exclude: 'no'
 ---
 
-## Portfolio
+## Projects
 1. <a href="https://github.com/odenipinedo/projects/tree/master/Finance" target="_blank" rel="noopener noreferrer">Corporate Finance</a>
 2. <a href="https://github.com/odenipinedo/projects/tree/master/PeopleAnalytics" target="_blank" rel="noopener noreferrer">People Analytics</a>
 
