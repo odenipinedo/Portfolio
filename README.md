@@ -1,2 +1,2 @@
-# Portfolio
-[Click here](https://pinedo.org/portfolio)
+# Projects
+[Click here](https://pinedo.org/projects)
