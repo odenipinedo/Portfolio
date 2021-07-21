@@ -2,3 +2,12 @@
 #### Corporate Finance: Final Project
 #### Valuation of SouthWest Airlines
 - Completed right when COVID-19 pandemic started
+
+
+Includes:
+
+CorpFin - LUV valuation - presentation.pdf
+- PowerPoint
+
+CorpFin - LUV valuation - white paper.pdf
+- White Paper
