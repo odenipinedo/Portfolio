@@ -3,7 +3,7 @@
 #### Valuation of SouthWest Airlines
 Completed right when COVID-19 pandemic started
 
-Includes:
+_Includes:_
 
 CorpFin - LUV valuation - presentation.pdf
 - PowerPoint
