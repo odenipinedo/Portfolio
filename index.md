@@ -20,5 +20,6 @@ sitemap:
 4. <a href="https://pinedo.org/projects/interactive_graph_1_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Requested</a>
 5. <a href="https://pinedo.org/projects/interactive_graph_2_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Granted</a>
 6. <a href="https://pinedo.org/projects/interactive_graph_3_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Total</a>
+7. <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Test</a>
 
 <!-- <a href="" target="_blank" rel="noopener noreferrer"></a> -->
