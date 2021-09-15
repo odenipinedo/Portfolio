@@ -1,13 +1,14 @@
 ## NSF EPSCoR bibliometric and awards social network analysis
 
-- ASEE2021_Paper_Kacz_Pinedo.pdf
 
-     - Conference Proceedings Paper
+#### Awards Baseline (2010 - 2020)
 
-- ASEE2021_Poster_Kacz_Pinedo.pdf
+- graphjs_animation_without_labels.html
 
-     - Conference Proceedings Poster
-     
-- ASEE2021_Presentation_Kacz_Pinedo.pdf
+- graphjs_without_labels.html
 
-     - Conference Proceedings PowerPoint Presentation
+- interactive_graph_1_no_labels.html
+
+- interactive_graph_2_no_labels.html
+
+- interactive_graph_3_no_labels.html
