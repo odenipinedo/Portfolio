@@ -15,7 +15,7 @@ sitemap:
 
 ## Portfolio
 1. <a href="https://github.com/odenipinedo/projects/tree/master/Analytics" target="_blank" rel="noopener noreferrer">People Analytics Deliverable</a>
-2. <a href="https://pinedo.org/projects/graphjs_animation_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D Social Network Analysis - Animation</a>
+2. <a href="https://pinedo.org/projects/graphjs_animation_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D Social Network Analysis - With Animation</a>
 3. <a href="https://pinedo.org/projects/graphjs_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D Social Network Analysis - Without Animation</a>
 4. <a href="https://pinedo.org/projects/interactive_graph_1_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Requested</a>
 5. <a href="https://pinedo.org/projects/interactive_graph_2_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Granted</a>
