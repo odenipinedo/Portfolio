@@ -15,7 +15,7 @@ sitemap:
 
 ## Portfolio
 1. <a href="https://github.com/odenipinedo/projects/tree/master/Analytics" target="_blank" rel="noopener noreferrer">People Analytics Deliverable</a>
-2. 
+2. <a href="https://pinedo.org/projects/supervised-learning-in-R---regression.html " target="_blank" rel="noopener noreferrer">supervised learning in R: regression</a>
 
 
 
