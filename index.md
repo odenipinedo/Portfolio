@@ -10,10 +10,13 @@ sitemap:
 
 ## Portfolio
 
-#### Program Evaluation
-
 #### People Analytics
 - <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
+
+#### Program Evaluation
+
+
+#### Program Evaluation
 
 #### Social Network Analysis
 - <a href="https://pinedo.org/projects/graphjs_animation_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D - With Animation</a>
