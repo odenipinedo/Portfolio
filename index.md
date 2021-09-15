@@ -10,6 +10,12 @@ sitemap:
 
 ## Portfolio
 
+#### Corporate Finance
+- <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
+- <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
+CorpFin - LUV valuation - presentation.pdf
+CorpFin - LUV valuation - white paper.pdf
+
 #### People Analytics
 - <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
 
