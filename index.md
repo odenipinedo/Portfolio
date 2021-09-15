@@ -26,7 +26,6 @@ sitemap:
 
 ## Publications
 - <a href="https://peer.asee.org/getting-things-done-in-data-intensive-inter-campus-research-initiatives-a-social-network-analysis-approach-to-understanding-and-building-effective-relationships-between-researchers-and-other-university-employees" target="_blank" rel="noopener noreferrer">2021 - ASEE conference</a>
-
 - <a href="https://www.academia.edu/download/33189549/Mindfulness_training_as_an_intervention_for_substance_user_incarcerated_adolescents_a_pilot_grounded_theory_study-1.pdf" target="_blank" rel="noopener noreferrer">2014 - Substance Use & Misuse</a>
 
 <!-- <a href="" target="_blank" rel="noopener noreferrer"></a> -->
