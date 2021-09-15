@@ -14,9 +14,8 @@ sitemap:
 - <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
 
 #### Program Evaluation
-
-
-#### Program Evaluation
+- <a href="https://pinedo.org/projects/ASEE2021_Poster_Kacz_Pinedo.pdf" target="_blank" rel="noopener noreferrer">Poster - Social Network & Organizational Culture Analysis</a>
+- <a href="https://pinedo.org/projects/ASEE2021_Presentation_Kacz_Pinedo.pdf" target="_blank" rel="noopener noreferrer">Presentation - Social Network & Organizational Culture Analysis</a>
 
 #### Social Network Analysis
 - <a href="https://pinedo.org/projects/graphjs_animation_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D - With Animation</a>
