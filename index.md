@@ -27,7 +27,6 @@ sitemap:
 - <a href="https://pinedo.org/projects/interactive_graph_1_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive - Awards Requested</a>
 - <a href="https://pinedo.org/projects/interactive_graph_2_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive - Awards Granted</a>
 - <a href="https://pinedo.org/projects/interactive_graph_3_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive - Awards Total</a>
-- <a href="https://pinedo.org/projects/graphjs_animation_without_labels_test.html">Test</a>
 
 ## Publications
 - <a href="https://peer.asee.org/getting-things-done-in-data-intensive-inter-campus-research-initiatives-a-social-network-analysis-approach-to-understanding-and-building-effective-relationships-between-researchers-and-other-university-employees" target="_blank" rel="noopener noreferrer">2021 - ASEE conference</a>
