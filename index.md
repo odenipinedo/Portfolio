@@ -7,19 +7,24 @@ sitemap:
   lastmod: 2020-12-18
   exclude: 'no'
 ---
-## Publications
-1. <a href="https://github.com/odenipinedo/projects/tree/master/Finance" target="_blank" rel="noopener noreferrer">Corporate Finance</a>
-2. <a href="https://github.com/odenipinedo/projects/tree/master/Analytics" target="_blank" rel="noopener noreferrer">People Analytics</a>
-3. <a href="https://github.com/odenipinedo/projects/tree/master/Evaluation" target="_blank" rel="noopener noreferrer">Program Evaluation Publications</a>
-
 
 ## Portfolio
-1. <a href="https://github.com/odenipinedo/projects/tree/master/Analytics" target="_blank" rel="noopener noreferrer">People Analytics Deliverable</a>
-2. <a href="https://pinedo.org/projects/graphjs_animation_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D Social Network Analysis - With Animation</a>
-3. <a href="https://pinedo.org/projects/graphjs_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D Social Network Analysis - Without Animation</a>
-4. <a href="https://pinedo.org/projects/interactive_graph_1_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Requested</a>
-5. <a href="https://pinedo.org/projects/interactive_graph_2_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Granted</a>
-6. <a href="https://pinedo.org/projects/interactive_graph_3_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive Social Network Analysis - Awards Total</a>
-7. <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Test</a>
+
+#### Program Evaluation
+
+#### People Analytics
+- <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
+
+#### Social Network Analysis
+- <a href="https://pinedo.org/projects/graphjs_animation_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D - With Animation</a>
+- <a href="https://pinedo.org/projects/graphjs_without_labels.html" target="_blank" rel="noopener noreferrer">Interactive 3D - Without Animation</a>
+- <a href="https://pinedo.org/projects/interactive_graph_1_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive - Awards Requested</a>
+- <a href="https://pinedo.org/projects/interactive_graph_2_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive - Awards Granted</a>
+- <a href="https://pinedo.org/projects/interactive_graph_3_no_labels.html" target="_blank" rel="noopener noreferrer">Interactive - Awards Total</a>
+
+## Publications
+- <a href="https://peer.asee.org/getting-things-done-in-data-intensive-inter-campus-research-initiatives-a-social-network-analysis-approach-to-understanding-and-building-effective-relationships-between-researchers-and-other-university-employees" target="_blank" rel="noopener noreferrer">2021 - ASEE conference</a>
+
+- <a href="https://www.academia.edu/download/33189549/Mindfulness_training_as_an_intervention_for_substance_user_incarcerated_adolescents_a_pilot_grounded_theory_study-1.pdf" target="_blank" rel="noopener noreferrer">2014 - Substance Use & Misuse</a>
 
 <!-- <a href="" target="_blank" rel="noopener noreferrer"></a> -->
