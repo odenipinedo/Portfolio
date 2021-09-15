@@ -11,8 +11,8 @@ sitemap:
 ## Portfolio
 
 #### Corporate Finance
-- <a href="https://pinedo.org/projects/CorpFin%20-%20LUV%20valuation%20-%20presentation" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
-- <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
+- <a href="https://pinedo.org/projects/CorpFin%20-%20LUV%20valuation%20-%20presentation" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - Presentation</a>
+- <a href="https://pinedo.org/projects/CorpFin%20-%20LUV%20valuation%20-%20white%20paper" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - White Paper</a>
 
 #### People Analytics
 - <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
