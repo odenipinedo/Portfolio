@@ -3,8 +3,8 @@ title: projects
 layout: default
 sitemap:
   priority: 0.7
-  changefreq: 'weekly'
-  lastmod: 2020-12-18
+  changefreq: 'monthly'
+  lastmod: 2021-10-04
   exclude: 'no'
 ---
 ## Portfolio
