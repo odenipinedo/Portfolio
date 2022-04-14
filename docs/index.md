@@ -14,9 +14,6 @@ sitemap:
 - <a href="https://pinedo.org/projects/CorpFin%20-%20LUV%20valuation%20-%20presentation.pdf" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - Presentation</a>
 - <a href="https://pinedo.org/projects/CorpFin%20-%20LUV%20valuation%20-%20white%20paper.pdf" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - White Paper</a>
 
-#### People Analytics
-- <a href="https://pinedo.org/projects/People%20Analytics%20Case%20Study%20Sample.pdf" target="_blank" rel="noopener noreferrer">Deliverable Example</a>
-
 #### Program Evaluation
 - <a href="https://pinedo.org/projects/ASEE2021_Poster_Kacz_Pinedo.pdf" target="_blank" rel="noopener noreferrer">Poster - Social Network & Organizational Culture Analysis</a>
 - <a href="https://pinedo.org/projects/ASEE2021_Presentation_Kacz_Pinedo.pdf" target="_blank" rel="noopener noreferrer">Presentation - Social Network & Organizational Culture Analysis</a>
