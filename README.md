@@ -1,3 +1,3 @@
 # Portfolio
 #### work samples
-[Click here](https://pinedo.org/projects)
+[Click here](https://pine.do/portfolio)
