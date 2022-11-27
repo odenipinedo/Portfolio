@@ -4,10 +4,15 @@ layout: default
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
-  lastmod: 2021-10-04
+  lastmod: 2022-11-24
   exclude: 'no'
 ---
-## Work Samples
+## Education
+
+- <a href="https://pine.do/Python">Python portfolio</a>
+- <a href="https://pine.do/R">R portfolio</a>
+
+## Project Samples
 
 #### Corporate Finance
 - <a href="https://pinedo.org/projects/CorpFin%20-%20LUV%20valuation%20-%20presentation.pdf" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - Presentation</a>
