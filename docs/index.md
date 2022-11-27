@@ -7,6 +7,7 @@ sitemap:
   lastmod: 2022-11-24
   exclude: 'no'
 ---
+
 ## Education
 
 - <a href="https://pine.do/Python">Python portfolio</a>
